@@ -21,6 +21,7 @@ header{
     background-color: #ffff;
     height: 55px;
     display: flex;
+    justify-content: space-between;
     padding: 0 16px;
 }
 .img-logo{
@@ -39,6 +40,8 @@ header{
     display: flex;
     height: 28px;
     width: 28px;
+    justify-content: space-between;
+    flex-direction: column;
 }
 .right-hamburguesa span{
     background-color: #000000;
