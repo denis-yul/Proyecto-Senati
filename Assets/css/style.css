@@ -27,6 +27,7 @@ header{
     height: 32px;
     width: auto;
     display: block;
+    object-fit: contain;
 }
 /* img{
     display: block;
