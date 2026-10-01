@@ -24,10 +24,7 @@ header{
     padding: 0 16px;
 }
 .img-logo{
-    display: block;
-    width: 40dvb;
-    height: 40dvb;
-    object-fit: contain;
+    height: 32px;
 }
 /* img{
     display: block;
