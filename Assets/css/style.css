@@ -33,3 +33,12 @@ header{
     display: flex;
     align-items: center;
 }
+
+.right-hamburguesa{
+    cursor: none;
+    display: flex;
+}
+.right-hamburguesa span{
+    background-color: #000000;
+    border-radius: 2px;
+}
